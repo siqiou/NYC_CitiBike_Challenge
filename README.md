@@ -2,6 +2,7 @@
 ## Overview of the analysis
 This analysis is to translate the data into a story to convince investors for a bike-sharing program
 
+The Tableau Story can be accessed here: [link to dashboard](https://public.tableau.com/views/NYCCitibikeStory_16645070699440/NYCCitibikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## Results
 1.On the dashboard, we can see the breakdown by gender, the majority bikers are male.
 ![img1](https://github.com/siqiou/NYC_CitiBike_Challenge/blob/31bcadd374fee6e2bcdbdd8861e2c8fd062402c6/dashboard.png)
