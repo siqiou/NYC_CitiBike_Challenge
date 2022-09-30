@@ -10,7 +10,8 @@ This analysis is to translate the data into a story to convince investors for a 
 ![img2](https://github.com/siqiou/NYC_CitiBike_Challenge/blob/31bcadd374fee6e2bcdbdd8861e2c8fd062402c6/August%20peak%20hour.png)
 
 3.The starting and Ending location are both on Manhattan, which means it would be best to provide service in this area.
-![img3]()
+![img3-1](https://github.com/siqiou/NYC_CitiBike_Challenge/blob/de5f5e9e79533223c304ad2b41018f764540a3f6/start%20location.png)
+![img3-2](https://github.com/siqiou/NYC_CitiBike_Challenge/blob/de5f5e9e79533223c304ad2b41018f764540a3f6/end%20location.png))
 
 4.Most people checkout under 20 minutes, this trend is similar in both male and female.
 ![img4-1](https://github.com/siqiou/NYC_CitiBike_Challenge/blob/b7906736bc9766fc8db6e90ea9ee4d8492bd68ae/Checkout%20Times%20for%20Users.png)
